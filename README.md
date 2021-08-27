@@ -4,4 +4,4 @@ DermaDetect app takes a photo of skin which is affected and recognizes whether i
 
 ## Note
 
-Due to the unavailability of specific skin rash dataset, model may misclassifies the images.
+Due to the unavailability of specific skin rash dataset, model might misclassify the images.
